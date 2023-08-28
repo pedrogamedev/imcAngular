@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+
+:root
+{
+    font-family: 'Comic Neue', cursive;
+}
+input
+{
+    font-size: 25px;
+    border-radius: 40px;
+    width: auto;
+    height: 40px;
+}
+button
+{
+    margin-left: 10px;
+}
